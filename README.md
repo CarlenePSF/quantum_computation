@@ -1,2 +1,2 @@
-Qunatum computation with Qiskit
+Quantum computation with Qiskit
 ----------------------------------------
