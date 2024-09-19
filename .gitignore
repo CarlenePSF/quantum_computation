@@ -3,15 +3,16 @@
 **/etc
 lib
 share
+/notebooks/Dia_01_Introdução_à_Otimização.ipynb
+/notebooks/Dia_02_Marcelo_Workshop_Quantum.ipynb
+/notebooks/efeito_fotoeletrico.ipynb
+/notebooks/financas_e_analise_de_investimentos.ipynb
+/notebooks/campos_direcionais.py
+/notebooks/queda_livre.py
+/notebooks/What Is a Normal Distribution - Note.ipynb
 
 pyvenv.cfg
 *.xml
 *.csv
 *.iml
-notebooks/Dia_01_Introdução_à_Otimização.ipynb
-notebooks/Dia_02_Marcelo_Workshop_Quantum.ipynb
-notebooks/efeito_fotoeletrico.ipynb
-notebooks/financas_e_analise_de_investimentos.ipynb
-notebooks/campos_direcionais.py
-notebooks/queda_livre.py
-notebooks/What Is a Normal Distribution - Note.ipynb
+
