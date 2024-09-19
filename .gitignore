@@ -1,15 +1,10 @@
 # created by virtualenv automatically
 **/bin
 **/etc
-lib
-share
-miscellaneous
-/miscellaneous/Dia_01_Introdução_à_Otimização.ipynb
-/miscellaneous/Dia_02_Marcelo_Workshop_Quantum.ipynb
-/miscellaneous/efeito_fotoeletrico.ipynb
-/miscellaneous/campos_direcionais.py
-/miscellaneous/queda_livre.py
-/miscellaneous/What Is a Normal Distribution - Note.ipynb
+**/lib
+**/share
+**/miscellaneous
+
 
 pyvenv.cfg
 *.xml
